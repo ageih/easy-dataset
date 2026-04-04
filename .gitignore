@@ -7,7 +7,7 @@ ai-local.json
 .DS_Store
 tsconfig.tsbuildinfo
 mock-login-callback.ts
-.env.local
+.env
 /src/test/crawler
 /src/test/mock
 /test
